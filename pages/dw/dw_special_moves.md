@@ -83,8 +83,8 @@ For each “yes” answer everyone marks XP.
 
 ## Carouse
 
-When you **return triumphant and throw a big party**, spend 100 coin and roll
-+ extra 100s of coin spent. On a 10+ choose 3. On a 7–9 choose 1. On a miss,
+When you **return triumphant and throw a big party**, spend 100 coin and roll +
+extra 100s of coin spent. On a 10+ choose 3. On a 7–9 choose 1. On a miss,
 you still choose one, but things get really out of hand.
 
   * You befriend a useful NPC
